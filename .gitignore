@@ -87,6 +87,14 @@ temp/
 *.tmp
 
 # ============================================
+# Mobile specific
+# ============================================
+mobile/ios/Pods/
+mobile/ios/*.xcworkspace
+mobile/android/.gradle/
+mobile/android/app/build/
+
+# ============================================
 # Project specific
 # ============================================
 requirements.md
